@@ -1,3 +1,5 @@
+![DSC_0197](https://user-images.githubusercontent.com/62598112/131334293-bc97e16d-88ac-4676-969a-a1d22cd55d9d.jpg)
+![DSC_0192_50](https://user-images.githubusercontent.com/62598112/131334302-4ec22eb9-c8fc-44ef-b650-530e9ae7e54a.jpg)
 Maze solver with the ability of mapping the space. Maze solving is based on the right wall rule. Robot has only front ultrasonic sensors, unlike most others robots on the Internet,
 so it is necessary to turn robot to the right side to check if there is a wall. The robot is stopping every 20 cm and checking the right side. ( In the video, it's checking also 
 the left side but it's just wasting a time, so it's fixed in the code).
