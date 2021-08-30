@@ -168,7 +168,7 @@ def MazeSolverSecondTurn():
                 
 function = MazeSolver()
 time.sleep(10)
-function2 = New_stack)
+function2 = New_stack()
 time.sleep(10)
 function3= MazeSolverSecondTurn()
 
